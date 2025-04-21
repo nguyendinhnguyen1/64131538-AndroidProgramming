@@ -29,6 +29,5 @@ class MainActivity : AppCompatActivity() {
         btnCau4.setOnClickListener {
             startActivity(Intent(this, ActivityAboutMe::class.java))
         }
-        }
     }
 }

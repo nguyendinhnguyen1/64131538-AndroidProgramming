@@ -21,7 +21,7 @@
             android:layout_width="90dp"
             android:layout_height="90dp"
             android:layout_marginStart="16dp"
-            app:srcCompat="@drawable/LogoNTU" />
+            app:srcCompat="@drawable/logontu" />
 
         <TextView
             android:id="@+id/textView"
