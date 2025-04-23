@@ -1,5 +1,9 @@
 # 64131538-AndroidProgramming
 Lưu các bài tập, bài thực hành, dự án của môn Lập trình thiết bị di động (LẬP TRÌNH ANDROID)
+### [BottomNavigationView](https://github.com/nguyendinhnguyen1/64131538-AndroidProgramming/tree/main/BottomNavigationView)
+![Image](https://github.com/user-attachments/assets/b6197f6e-afc5-4769-a915-88efbdf6d0dc)
+![Image](https://github.com/user-attachments/assets/d3b85cf3-d7f4-4667-82cd-d278dfb1747d)
+![Image](https://github.com/user-attachments/assets/b46b90ba-a754-40f4-b9f8-c3d4224f001b)
 ### [Ex3_SimpleSumApp](https://github.com/nguyendinhnguyen1/64131538-AndroidProgramming/tree/main/Ex3_SimpleSumApp)
 ![Image](https://github.com/user-attachments/assets/0e28c458-67b5-49b5-83ec-6df7f638eba2)
 ### [FragmentEx_Statically](https://github.com/nguyendinhnguyen1/64131538-AndroidProgramming/tree/main/FragmentEx_Statically)
