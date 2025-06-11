@@ -8,7 +8,6 @@
     android:background="@drawable/layout_chinh"
     tools:context=".GameOverActivity">
 
-    <!-- TextView hiển thị câu hỏi -->
     <TextView
         android:id="@+id/btn_cauhoi"
         android:layout_width="342dp"
@@ -26,8 +25,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-
-    <!-- TextView hiển thị điểm -->
 
     <ImageView
         android:id="@+id/imageView"
@@ -60,7 +57,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5" />
 
-    <!-- Nút lưu điểm -->
     <Button
         android:id="@+id/btn_luudiem"
         android:layout_width="163dp"
@@ -78,9 +74,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.064" />
 
-    <!-- Nút quay lại -->
-
-    <!-- Nút về trang chính -->
 
     <ImageButton
         android:id="@+id/btn_quaylai"

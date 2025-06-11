@@ -8,7 +8,6 @@
     android:background="@drawable/layout_chinh"
     tools:context=".GameActivity">
 
-
     <ImageButton
         android:id="@+id/btn_home"
         android:layout_width="149dp"
